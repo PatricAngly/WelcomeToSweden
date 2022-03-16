@@ -1,0 +1,205 @@
+header {
+width: 1272px;
+height: 160px;
+background-color: aqua;
+}
+.image1 {
+    width: 390px;
+    height: 162px;
+    margin-left: auto; 
+    margin-right: auto; 
+    display: block;
+}
+hr.new {
+    border-top: 3px solid rgb(0, 0, 0);
+}
+nav{
+background-color: #D7E2EF ;
+width: 1272px;
+height: 90px;
+}
+hr.new1 {
+    border-top: 1px solid rgb(0, 0, 0);
+}
+.button1{
+  background-color: #FFFFFF;
+  border: none;
+  color: #004687;
+  padding: 15px 32px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  margin-left: 100px;
+  border-radius: 5px;
+  font-family: 'Overpass', sans-serif;
+  font-weight: 400;
+  text-shadow: 2px 4px 9px rgba(160, 160, 160, 0.986);
+}
+.button2{
+    background-color: #FFFFFF;
+    border: none;
+    color: #004687;
+    padding: 15px 32px;
+    margin-left: 120px;
+    margin-top: 20px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-family: 'Overpass', sans-serif;
+    font-weight: 400;
+    text-shadow: 2px 4px 9px rgba(160, 160, 160, 0.986);
+}
+.button3{
+    background-color: #FFFFFF;
+    border: none;
+    color: #004687;
+    padding: 15px 32px;
+    margin-left: 100px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-family: 'Overpass', sans-serif;
+    font-weight: 400;
+    text-shadow: 2px 4px 9px rgba(160, 160, 160, 0.986);
+}
+.button4{
+    background-color: #FFFFFF;
+    border: none;
+    color: #004687;
+    padding: 15px 32px;
+    margin-left: 80px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-family: 'Overpass', sans-serif;
+    font-weight: 400;
+    text-shadow: 2px 4px 9px rgba(160, 160, 160, 0.986);
+}
+.button5{
+    background-color: #FFFFFF;
+    border: none;
+    color: #004687;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 110px;
+    border-radius: 5px;
+    font-family: 'Overpass', sans-serif;
+    font-weight: 400;
+    text-shadow: 2px 4px 9px rgba(160, 160, 160, 0.986);
+}
+hr.new2 {
+    border-top: 2px solid rgb(0, 0, 0);
+}
+.infor {
+width: 1265px;
+height: 500px;
+}
+
+.text1{
+    margin-top: -460px;
+    margin-left: 30px;
+    font-weight: 400;
+    font-size:60px;
+    font-weight: 100;
+    font-family: 'Staatliches';
+    color: #ffffff;
+}
+.text2{
+    margin-top: -370px;
+    margin-left: 150px;
+    color: black;
+    font-family:'Anton', sans-serif;
+    font-size: 36px;
+}
+.text3{
+    margin-top: -370px;
+    margin-left: 200px;
+    color: black;
+    font-family:'Anton', sans-serif;
+    font-size: 36px;
+}
+.button6{
+    background-color: #FFF8BC;
+    border: none;
+    color: #004687;
+    padding: 80px 172px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 130px;
+    margin-top: 20px;
+    border-radius: 8px;
+    font-family: 'Overpass', sans-serif;
+    font-weight: 400;
+}
+.button7{
+    background-color: #FFF8BC;
+    border: none;
+    color: #004687;
+    padding: 80px 172px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 150px;
+    border-radius: 8px;
+    font-family: 'Overpass', sans-serif;
+    font-weight: 400;
+}
+hr.new3 {
+    border-top: 6px solid rgb(255, 255, 255);
+    margin-top: 65px;
+}
+.aktivitey {
+    width: 1271px;
+    height: 500px;
+    margin-top: -8px;
+}
+.text4{
+    margin-top: -460px;
+    margin-left: 30px;
+    font-weight: 400;
+    font-size:60px;
+    font-weight: 100;
+    font-family: 'Staatliches';
+    color: #ffffff;
+}
+.button8 {
+    width: 510px;
+    height: 290px;
+    padding-bottom: 70px;
+    background-color: #FFF8BC;
+    border: none;
+    color: #004687;
+    text-align: left;
+    margin-left: 60px;
+    margin-bottom: -30px;
+}
+.button9 {
+    width: 510px;
+    height: 290px;
+    padding-bottom: 70px;
+    background-color: #FFF8BC;
+    border: none;
+    color: #004687;
+    text-align: left;
+    margin-left: 120px;
+    margin-top: 3px;
+}
+.text4{
+    margin-top: -460px;
+    margin-left: 30px;
+    font-weight: 400;
+    font-size:60px;
+    font-weight: 100;
+    font-family: 'Staatliches';
+    color: #111010;
+}
